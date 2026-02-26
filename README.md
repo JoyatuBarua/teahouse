@@ -7,3 +7,6 @@ For fonts & texts
   - simple_gradient_text: 1.4.0
 For date-time parsing and formatting
   - jiffy: ^6.4.4
+
+Preview live app at:
+https://joyatubarua.github.io/teahouse/
